@@ -1,2 +1,4 @@
 # opencv-cam-preview
-preview usb camera video stream with opencv
+Preview usb camera video stream with opencv.
+
+Used as tool to preview the video stream from a USB capture device for raspi.
